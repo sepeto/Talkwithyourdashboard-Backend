@@ -1,0 +1,33 @@
+# Dual Licensing Notice
+
+This software is available under a dual-licensing model. By using this software, you agree to comply with one of the following licensing options:
+
+## Option 1: Open Source License (MPL 2.0)
+This software is licensed under the Mozilla Public License 2.0 (MPL 2.0).
+You may use, modify, and distribute this software under the terms of the MPL 2.0.
+For more details, see [https://mozilla.org/MPL/2.0/](https://mozilla.org/MPL/2.0/).
+
+### Key Points:
+- Modifications to any MPL-licensed files must be shared under the MPL 2.0 if redistributed.
+- You are free to combine this software with proprietary code, as long as the original MPL-licensed code and modifications remain open.
+
+---
+
+## Option 2: Commercial License
+For companies or organizations that wish to use this software **without the restrictions of the MPL 2.0**, a commercial license is available.
+
+### Key Benefits of the Commercial License:
+- Freedom to use and modify the software without sharing changes publicly.
+- Access to premium features and plugins (if applicable).
+- Dedicated technical support and maintenance.
+
+To acquire a commercial license, please contact:
+Joseba Portas Abalde
+Email: Joseba.kayzen@gmail.com 
+Telephone: +34 685321399
+Website: Talkwithyourdashboard.com
+
+---
+
+## Default Licensing
+If no commercial license agreement is in place, your use of this software defaults to the terms of the Mozilla Public License 2.0.
